@@ -1,6 +1,6 @@
 @app.route("/academia/")
 def Academia():
-    return "Bienvenida"
+    return "Academia "
 
 @app.route("/academia/")
 def Academia():
